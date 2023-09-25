@@ -1,7 +1,41 @@
-### Hi there 👋
+<h1>Hi, I'm Melinda! <br/><a href="https://github.com/emt29165">IT Professional</a>, <a href="https://www.linkedin.com/in/melindajpethel/">Cybersecurity Enthusiast</a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Title](https://github.com/emt29165/ADHomeLab)
+- <b>Something Here (Something Else Here)</b>
+  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+- <b>PowerShell</b>
+  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+- <b>Python</b>
+  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+
+<h2>📺 YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NameHere | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="NameHere | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="NameHere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NameHere | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/NameHere
+[youtube]: https://www.youtube.com/c/NameHere
+[instagram]: https://www.instagram.com/NameHere/
+[linkedin]: https://linkedin.com/in/NameHere
 
 <!--
-**emt29165/emt29165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NameHere/NameHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
