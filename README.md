@@ -34,7 +34,7 @@
 [twitter]: https://twitter.com/NameHere
 [youtube]: https://www.youtube.com/c/NameHere
 [instagram]: https://www.instagram.com/NameHere/
-[linkedin]: https://linkedin.com/in/NameHere
+[linkedin]: https://linkedin.com/in/MelindaJPethel
 
 <!--
 **NameHere/NameHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
