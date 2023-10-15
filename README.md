@@ -16,7 +16,8 @@
 - <b>Python</b>
   - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
 
-<h2>📺 YouTube Videos</h2>
+
+<!-- <h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -35,7 +36,7 @@
 [youtube]: https://www.youtube.com/c/NameHere
 [instagram]: https://www.instagram.com/NameHere/
 [linkedin]: https://linkedin.com/in/MelindaJPethel
-
+-->
 <!--
 **NameHere/NameHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
