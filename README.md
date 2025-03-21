@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Title](https://github.com/emt29165/ADHomeLab)
+  - [Zentyal on Proxmox](https://github.com/emt29165/ADHomeLab)
 - <b>Something Here (Something Else Here)</b>
   - [Raspberry Pi Lab (Project Description)](https://github.com/emt29165/PiLab)
 - <b>PowerShell</b>
