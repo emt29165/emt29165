@@ -4,17 +4,17 @@
 
 - <b>Active Directory Home Lab</b>
   - [Zentyal on Proxmox](https://github.com/emt29165/ADHomeLab)
-- <b>Something Here (Something Else Here)</b>
-  - [Raspberry Pi Lab (Project Description)](https://github.com/emt29165/PiLab)
+- <b>Raspberry Pi Lab </b>
+  - [Raspberry Pi Kali for Penetration Testing](https://github.com/emt29165/PiLab)
 - <b>PowerShell</b>
-  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+  - [Using Powershell to Analyze Logs](https://github.com/emt29165/ProjectName)
 - <b>Vulnerability Management</b>
   - [Nessus (Project Description)](https://github.com/emt29165/ProjectName)
   - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
   - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
   - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
 - <b>Python</b>
-  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
+  - [Python Port Scanner](https://github.com/emt29165/PortScanner)
 
 
 <!-- <h2>📺 YouTube Videos</h2>
