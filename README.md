@@ -14,8 +14,9 @@
   - [Python Port Scanner](https://github.com/emt29165/PortScanner)
 
 <h2>Networking Projects</h2>
+
 - <b>ExamPro Network Fundamentals Bootcamp</b>
- - [Networking Bootcamp](https://github.com/emt29165/exp-net-fundamentals-2025-Q2)
+  - [Networking Bootcamp](https://github.com/emt29165/exp-net-fundamentals-2025-Q2)
 
 <!-- <h2>📺 YouTube Videos</h2>
 
