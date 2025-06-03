@@ -1,6 +1,6 @@
 <h1>Hi, I'm Melinda! <br/><a href="https://github.com/emt29165">IT Professional</a>, <a href="https://www.linkedin.com/in/melindajpethel/">Cybersecurity Enthusiast</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>Cybersecurity Projects</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Zentyal on Proxmox](https://github.com/emt29165/ADHomeLab)
@@ -10,13 +10,11 @@
   - [Using Powershell to Analyze Logs](https://github.com/emt29165/ProjectName)
 - <b>Vulnerability Management</b>
   - [Nessus (Project Description)](https://github.com/emt29165/ProjectName)
-  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
-  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
-  - [ProjectName (Project Description)](https://github.com/emt29165/ProjectName)
 - <b>Python</b>
   - [Python Port Scanner](https://github.com/emt29165/PortScanner)
 
-
+<h2>Networking Projects</h2>
+ - [Networking Bootcamp](https://github.com/emt29165/exp-net-fundamentals-2025-Q2)
 <!-- <h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
